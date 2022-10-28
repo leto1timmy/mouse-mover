@@ -1,6 +1,6 @@
 # MouseMover
 
-Simple java program to keep your computer online :)
+Simple java program to move your mouse and keep your computer online :)
 
 ## How to use
 
