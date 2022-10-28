@@ -1,3 +1,5 @@
+package start;
+
 import java.util.Random;
 import java.awt.Robot;
 
